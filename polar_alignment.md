@@ -6,7 +6,7 @@ date: 2021-11-10
 
 ## Theory
 
-$$ \vec{P}_c = \dots $$
+$$ \vec{P}_c = \dots \eqref{eq:1}$$
 
 \\( \vec{P}_c = \dots \\)
 
