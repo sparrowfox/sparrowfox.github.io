@@ -6,9 +6,14 @@ date: 2021-11-10
 
 ## Theory
 
-$$ \vec{P}_c = \dots \label{eq:vector}$$
+\begin{equation}
+\vec{P}_c = \dots
+\label{eq:label1}
+\end{equation}
 
-\\( \vec{P}_c = \dots \eqref{eq:vector} \\)
+\\( \vec{P}_c = \dots \tag{2}\\)
+
+
 
 ```python
 import astropy
