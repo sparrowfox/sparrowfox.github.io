@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 ## SparrowFox Astronomy
 
 There's nothing yet
