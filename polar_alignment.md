@@ -6,13 +6,7 @@ date: 2021-11-10
 
 ## Theory
 
-\begin{equation}
-\vec{P}_c = \dots
-\label{eq:label1}
-\end{equation}
-
-\\( \vec{P}_c = \dots \tag{2}\\)
-
+\\( \vec{P}_c = \dots \tag{2}\label{eq:vector}\\)
 
 
 ```python
