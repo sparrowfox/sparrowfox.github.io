@@ -1,2 +1,6 @@
+---
+layout: post
+---
+
 ## Chalk theme for jekyll
 https://github.com/nielsenramon/chalk
