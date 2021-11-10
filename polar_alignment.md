@@ -8,6 +8,9 @@ date: 2021-11-10
 
 \\( \vec{P}_c = \dots \tag{2}\label{eq:vector}\\)
 
+\begin{equation}
+\vec{P}_c = \dots
+\end{equation}
 
 ```python
 import astropy
