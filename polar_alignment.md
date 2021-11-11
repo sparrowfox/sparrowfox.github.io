@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Polar Alignment in Python Using Plated Solved Images
+title: Polar Alignment in Python Using Plate Solved Images
 date: 2021-11-10
 ---
 
