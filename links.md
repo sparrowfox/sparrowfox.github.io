@@ -15,3 +15,6 @@ https://github.com/AnthonyHorton/fast-zwo
 
 ### GPSD and NTP Configuration on Raspbery Pi
 https://indilib.org/forum/general/3194-i-made-this-indi-in-an-all-in-one-power-box-with-dew-heater.html#24326
+
+### Jparsec Star Atlas
+http://conga.oan.es/~alonso/sources/
